@@ -15,10 +15,11 @@ def mensaje():
     <p>Accede a la documentación:</p>
     <ul>
         <li><a href='http://127.0.0.1:8000/docs' >Local (FastAPI)</a></li>
-        <li><a href='https://pi-mlops-25.onrender.com/docs' >Producción (Render)</a></li>
+        <li><a href='https://primer-proyecto-individual-f21z.onrender.com/docs' >Producción (Render)</a></li>
     </ul>
     """
     return HTMLResponse(content=content)
+
 
 # Cargamos los archivos parquet
 df1 = pd.read_parquet('endpoint1.parquet')  # endpoint 1/def developer
