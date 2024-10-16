@@ -1,0 +1,13 @@
+
+# Ignorar el entorno virtual
+venv/
+
+# Ignorar datasets y archivos grandes
+australian_user_reviews.json
+australian_users_items.json
+output_steam_games.json
+australian_user_reviews.csv
+australian_users_items.csv
+output_steam_games.csv
+australian_user_reviews.parquet
+output_steam_games.parquet

@@ -1,0 +1,16 @@
+decorator
+fastapi
+FastAPI-CLI
+matplotlib-inline
+numpy
+pandas
+scikit-learn
+scipy
+uvicorn
+wcwidth
+requests
+wordcloud
+nltk
+pyarrow
+fastparquet
+seaborn
