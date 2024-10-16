@@ -1,7 +1,7 @@
-
 # Ignorar el entorno virtual
 venv/
-
+# Ignorar caché de Python
+__pycache__/
 # Ignorar datasets y archivos grandes
 australian_user_reviews.json
 australian_users_items.json
